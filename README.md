@@ -1,0 +1,2 @@
+# youdaotest
+youdao/test/picture
